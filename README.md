@@ -13,7 +13,7 @@ For you to clone this repository:
 -Internet connection
 
 ##### Installation processli
-[live link](https://iamimmar.github.io/MY-IP-3/) 
+[live link](https://iamimmar.github.io/Wk-4-IP/) 
 ---
 
 ###### Technology used
